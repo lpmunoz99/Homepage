@@ -1,0 +1,1 @@
+This is the first and only project of the Advanced HTML and CSS curriculum through The Odin Project, a homepage to host all my projects so far where knowledge of web responsiveness is applied.
